@@ -182,11 +182,11 @@
     "SourceControlRepository": {
       "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
       "__value": {
-        "RemotePath": "https://github.com/kalchev/212808.git",
+        "RemotePath": "E:\\git\\212808-5",
         "ServerInfo": {
           "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
           "__value": {
-            "ServerName": "https://github.com/kalchev/212808.git"
+            "ServerName": "E:\\git\\212808-5"
           }
         },
         "ServerType": 2

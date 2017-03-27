@@ -53,46 +53,6 @@
             "QcVersionStamp": 0,
             "Version": 200
           }
-        },
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "cbed47dd-0cd9-4605-a2e9-06652d78d98f",
-            "Description": "New Coded Step",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.CodedStepDescriptor",
-              "__value": {
-                "Code": "            ",
-                "RequiresSilverlight": false,
-                "WaitOnElements": true,
-                "WaitOnElementsTimeout": 30000,
-                "UseStepWaitOnElementsTimout": false,
-                "Pause": 0,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {},
-                "StepType": 4,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {}
-              }
-            },
-            "Enabled": true,
-            "Order": 2,
-            "Id": "WebTest1_CodedStep",
-            "StepState": 1,
-            "ContinueOnFailure": false,
-            "StepImageKey": "WebTest(1)0dva31dp.dyu",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
         }
       ]
     },
@@ -108,9 +68,9 @@
     "UseDefaultWpfAppPath": false,
     "TestAssembly": "212808.dll",
     "TestAssemblyPath": "bin",
-    "TestClass": "_12808.WebTest_1_",
+    "TestClass": "_12808.WebTest_1___1_",
     "IsManual": false,
-    "ResourceFilePath": "WebTest(1).resx",
+    "ResourceFilePath": "WebTest(1) (1).resx",
     "HasCodeBehind": true,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
@@ -140,13 +100,13 @@
     "QcTestVersionStamp": 0,
     "TestLinks": [],
     "Description": "",
-    "Name": "WebTest(1)",
+    "Name": "WebTest(1) (1)",
     "Owner": "",
-    "Path": "WebTest(1).tstest",
+    "Path": "WebTest(1) (1).tstest",
     "Priority": 0,
     "TestType": 0,
-    "UniqueId": "6a4956fe-9bce-44e3-81ba-5ec9e983e8ef",
-    "Id": "6a4956fe-9bce-44e3-81ba-5ec9e983e8ef",
+    "UniqueId": "7576e186-907d-4fe1-be5e-843e41dfb39a",
+    "Id": "7576e186-907d-4fe1-be5e-843e41dfb39a",
     "ProjectId": "a922e95c-620b-4f28-a8ee-b2790b2ed118",
     "Version": 200
   }

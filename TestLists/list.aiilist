@@ -54,7 +54,16 @@
         "DisableDialogMonitoring": false
       }
     },
-    "Tests": [],
+    "Tests": [
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "f5d36949-0c49-4e15-bf0a-07a4a98bf630",
+          "Path": "WebTest.tstest",
+          "PathType": 0
+        }
+      }
+    ],
     "Filter": {
       "__type": "ArtOfTest.WebAii.Design.Execution.Filter",
       "__value": {

@@ -15,7 +15,7 @@
     "CodeGenerationElementIdentificationType": 1,
     "UrlHistory": [],
     "AbsoluteDragDropRecording": true,
-    "ImageScalePercentage": 70,
+    "ImageScalePercentage": 75,
     "SelectedIdentificaitonScheme": "Html",
     "IdentificationSchemes": {
       "Html": {
@@ -152,8 +152,8 @@
     "UnitTypeTypeGeneration": 1,
     "RecorderBaseUrl": "",
     "IsStoryBoardCapturingEnabled": true,
-    "SimulateRealClickByDefault": true,
-    "SimulateRealTypingByDefault": true,
+    "SimulateRealClickByDefault": false,
+    "SimulateRealTypingByDefault": false,
     "SimulateRealSilverlightUserByDefault": true,
     "DefaultDropDownSelection": 1,
     "QuickExecutionElementWaitTimeout": 15000,
@@ -178,7 +178,7 @@
     "PromptNameOnAddElement": true,
     "DefaultWPFApplication": null,
     "UseLegacySilverlightFindLogic": false,
-    "ProjectGuid": "a922e95c-620b-4f28-a8ee-b2790b2ed118",
+    "ProjectGuid": "6e185765-6414-4eb2-83c5-13128f0f6998",
     "SourceControlRepository": {
       "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
       "__value": {
@@ -193,7 +193,7 @@
       }
     },
     "IsOnline": true,
-    "ProjectLanguage": 1,
+    "ProjectLanguage": 2,
     "ProjectReferences": [
       "System",
       "System.Core",
@@ -204,8 +204,8 @@
       "Telerik.WebAii.Controls.Xaml.Wpf, Version=2012.1.719.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
       "Telerik.TestingFramework.Controls.KendoUI, Version=2012.1.322.0, Culture=neutral, PublicKeyToken=528163f3e645de45"
     ],
-    "ScheduleServerUrl": "http://localhost:8009/",
-    "IsScheduleServerRemote": true,
+    "ScheduleServerUrl": "http://localhost:8009",
+    "IsScheduleServerRemote": false,
     "ProjectVersion": "2017.1.116.0",
     "Namespace": "_12808",
     "AssemblyName": "212808",

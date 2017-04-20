@@ -51,5 +51,11 @@ namespace _12808
         {
             // some code
         }
+    
+        [CodedStep(@"New Coded Step")]
+        public void WebTest1_CodedStep1()
+        {
+            // new coded func
+        }
     }
 }

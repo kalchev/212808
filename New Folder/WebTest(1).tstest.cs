@@ -49,7 +49,7 @@ namespace _12808
         [CodedStep(@"New Coded Step")]
         public void WebTest1_CodedStep()
         {
-            
+            // some code
         }
     }
 }

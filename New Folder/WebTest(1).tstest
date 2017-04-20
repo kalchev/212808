@@ -23,7 +23,7 @@
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.CodedStepDescriptor",
               "__value": {
-                "Code": "            ",
+                "Code": "            // some code",
                 "RequiresSilverlight": false,
                 "WaitOnElements": true,
                 "WaitOnElementsTimeout": 30000,
@@ -63,7 +63,7 @@
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.CodedStepDescriptor",
               "__value": {
-                "Code": "            ",
+                "Code": "            // some code",
                 "RequiresSilverlight": false,
                 "WaitOnElements": true,
                 "WaitOnElementsTimeout": 30000,

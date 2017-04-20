@@ -182,11 +182,11 @@
     "SourceControlRepository": {
       "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
       "__value": {
-        "RemotePath": "https://github.com/kalchev/212808",
+        "RemotePath": "https://github.com/kalchev/212808.git",
         "ServerInfo": {
           "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
           "__value": {
-            "ServerName": "https://github.com/kalchev/212808"
+            "ServerName": "https://github.com/kalchev/212808.git"
           }
         },
         "ServerType": 2
@@ -204,8 +204,8 @@
       "Telerik.WebAii.Controls.Xaml.Wpf, Version=2012.1.719.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
       "Telerik.TestingFramework.Controls.KendoUI, Version=2012.1.322.0, Culture=neutral, PublicKeyToken=528163f3e645de45"
     ],
-    "ScheduleServerUrl": "http://localhost:8009",
-    "IsScheduleServerRemote": false,
+    "ScheduleServerUrl": "http://localhost:8009/",
+    "IsScheduleServerRemote": true,
     "ProjectVersion": "2017.1.116.0",
     "Namespace": "_12808",
     "AssemblyName": "212808",

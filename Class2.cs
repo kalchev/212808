@@ -7,6 +7,6 @@ namespace _12808
 {
     public class Class2
     {
-        
+        // test
     }
 }
